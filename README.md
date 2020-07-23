@@ -1,3 +1,4 @@
-## StartUp project
+# StartUp project
 
-Would you like to have your project designed by expert?
+Would you like to have your project designed by experts ?
+
